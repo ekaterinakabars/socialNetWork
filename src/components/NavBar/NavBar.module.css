@@ -1,0 +1,10 @@
+.nav {
+    /* width: 200px; */
+    grid-area: n;
+    background-color: chartreuse;
+}
+.item {
+    font-size: 30px;
+    color: azure;
+
+}

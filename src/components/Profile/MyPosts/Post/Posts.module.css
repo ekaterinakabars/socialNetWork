@@ -1,0 +1,15 @@
+.content {
+    grid-area: c;
+    background-color: rgb(7, 1, 2);
+
+}
+.item {
+    /* color: chartreuse; */
+}
+.active {
+    color: rgb(133, 255, 80);
+}
+.item img {
+    width: 50px;
+    border-radius: 50%;
+}
