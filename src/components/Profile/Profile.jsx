@@ -4,7 +4,7 @@ import m from "./Profile.module.css";
 
 const Profile = () => {
   return (
-    <div className={m.content}>
+    <div>
       <div>
         <img
           src="https://skylandtourism.com/wp-content/uploads/2018/08/IMG_world-1200x675.jpg"
