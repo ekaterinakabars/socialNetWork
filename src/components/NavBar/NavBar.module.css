@@ -3,8 +3,14 @@
     grid-area: n;
     background-color: chartreuse;
 }
-.item {
+.item a {
     font-size: 30px;
     color: azure;
+    text-decoration: none;
+
+}
+.item a.active{
+    font-size: 30px;
+    color: rgb(232, 201, 77);
 
 }
